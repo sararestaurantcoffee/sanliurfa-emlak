@@ -12,9 +12,9 @@ Modern, minimalist ve premium görünümlü emlak danışmanlığı marka sitesi
 
 ## Sayfalar
 
-- **Ana Sayfa** — Hero, hizmetler önizleme, Instagram CTA
+- **Ana Sayfa** — Hero slider, emlak kategorileri, müşteri yorumları, Instagram CTA
 - **Hizmetlerimiz** — 4 danışmanlık hizmeti kartları
-- **İletişim** — Instagram ve e-posta bağlantıları
+- **İletişim** — Instagram, telefon ve e-posta bağlantıları
 
 ## Kurulum
 
@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-Tarayıcıda [http://localhost:3000](http://localhost:3000) adresini açın.
+Tarayıcıda [http://localhost:3456](http://localhost:3456) adresini açın.
 
 ## Production
 
@@ -42,9 +42,10 @@ NEXT_PUBLIC_SITE_URL=https://alanadiniz.com
 
 ## Profil ve Logo
 
-Instagram profil görseli ve logo eklenecek. Profil için `src/components/home/InstagramCTA.tsx` içindeki placeholder alanını güncelleyin.
+Logo ve görseller `public/` dizininde bulunmaktadır.
 
 ## İletişim Bilgileri
 
-- Instagram: [@sanliurfaemlak633](https://www.instagram.com/sanliurfaemlak633)
-- E-posta: sanliurfaemlak633@gmail.com
+- Instagram: [@sanliurfa.emlak](https://www.instagram.com/sanliurfa.emlak)
+- Telefon: 0531 653 51 75
+- E-posta: sanliurfaemlakk@gmail.com
