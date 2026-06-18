@@ -1,0 +1,10 @@
+{
+  "name": "Şanlıurfa Emlak",
+  "short_name": "Ş. Emlak",
+  "description": "Güvenin Yeni Adresi — Şanlıurfa genelinde güvenilir emlak danışmanlığı",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "lang": "tr"
+}
