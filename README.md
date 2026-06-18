@@ -37,7 +37,7 @@ npm start
 `.env.local` dosyasına ekleyin:
 
 ```
-NEXT_PUBLIC_SITE_URL=https://alanadiniz.com
+NEXT_PUBLIC_SITE_URL=https://sanliurfaemlakk.com
 ```
 
 ## Profil ve Logo
